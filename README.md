@@ -6,7 +6,6 @@ Welcome to the Hack the Circle: Khwopa 2024 hackathon page! This project is desi
 
 - [Installation](#installation)
 - [Customization](#customization)
-- [Email Integration](#email-integration)
 - [Running the Project](#running-the-project)
 
 ## Installation
