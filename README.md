@@ -46,7 +46,6 @@ npm run dev
 ```
 
 This will start the development server, and you can view the hackathon page at `http://localhost:5173`.
-This will create a production-ready build in the `dist` directory
 
 ## License
 
